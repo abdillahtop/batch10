@@ -1,0 +1,19 @@
+.text-center {
+    text-align: center !important;
+  }
+
+.h1{
+    font-size: 72px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}  
+
+.judul {
+    margin-top: 20px;
+}
+#apasih {
+    padding: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
